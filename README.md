@@ -11,15 +11,15 @@
 
 ### Frontend
 
-![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS3 ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React.js ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![Tailwind Icon](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind
+![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS3 ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React.js ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![Tailwind Icon](https://image.pngaaa.com/779/6447779-middle.png) Tailwind
 
 ### Backend
 
-![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) SQL ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js ![Postgres Icon](https://img.icons8.com/color/48/000000/postgreesql.png) Postgres ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) Express.js ![Ruby on Rails Icon](https://img.icons8.com/color/48/000000/ruby-on-rails.png) Ruby on Rails ![Faker Icon](icon-link-for-faker) Faker ![Sequelize Icon](icon-link-for-sequelize) Sequelize ![Webpack Icon](icon-link-for-webpack) Webpack ![npm Icon](icon-link-for-npm) npm ![Jest Icon](icon-link-for-jest) Jest ![MVC Icon](icon-link-for-mvc) MVC
+![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) SQL ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js ![Postgres Icon](https://img.icons8.com/color/48/000000/postgreesql.png) Postgres ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) Express.js ![Ruby on Rails Icon](https://img.icons8.com/color/48/000000/ruby-on-rails.png) Ruby on Rails ![Faker Icon](icon-link-for-faker) Faker ![Sequelize Icon](icon-link-for-sequelize) Sequelize ![Webpack Icon](https://p1.hiclipart.com/preview/659/427/821/react-logo-webpack-babel-front-and-back-ends-turquoise-electric-blue-symbol-square-png-clipart-thumbnail.jpg) Webpack ![Jest Icon](https://logowik.com/content/uploads/images/jest-js7858.logowik.com.webp) Jest
 
 ### Security & Authentication
 
-![JWT Icon](icon-link-for-jwt) JWT ![Passport.js Icon](icon-link-for-passportjs) Passport.js ![Bcrypt Icon](icon-link-for-bcrypt) Bcrypt
+![JWT Icon](icon-link-for-jwt) JWT ![Passport.js Icon](icon-link-for-passportjs) Passport.js ![Bcrypt Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwKMV7Z4reVSO2vRErfk3_ie110DaZKkpz_YMU22njPXKMRsgjhQ6c9f5rPgQ7ggdnvM&usqp=CAU) Bcrypt
 
 ## Current Project 🚀
 
@@ -30,7 +30,7 @@
 - ✅ Customize workout routines to fit your lifestyle.
 - Backend: Express, Faker, Sequelize, Jest
 - Frontend: React, Tailwind CSS
-- Security: Passport.js, Bcrypt
+- Security: Passport.js, Bcrypt, Passport(authentication)
 
 ## Recently Completed Projects 📚
 
@@ -38,9 +38,9 @@
 
 - ✅ Create meals based on current pantry with real-time inventory updates.
 - ✅ Options to view and edit recipes and pantry items.
-- Backend: Ruby on Rails, MVC
+- Backend: Ruby on Rails
 - Frontend: npm, webpack, React, Bootstrap
-- Security: JWT
+- Security: JWT, bcrypt
 
 ## Contact Me 📞
 
