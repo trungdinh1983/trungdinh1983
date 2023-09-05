@@ -28,7 +28,7 @@
 - ✅ Track specific exercises, calories burned, reps, steps, distance, and time.
 - ✅ View daily, weekly, monthly trends.
 - ✅ Customize workout routines to fit your lifestyle.
-- Backend: Express.js, Faker, Sequelize, Jest
+- Backend: Express, Faker, Sequelize, Jest
 - Frontend: React, Tailwind CSS
 - Security: Passport.js, Bcrypt
 
@@ -40,7 +40,7 @@
 - ✅ Options to view and edit recipes and pantry items.
 - Backend: Ruby on Rails, MVC
 - Frontend: npm, webpack, React, Bootstrap
-- Security: JWT, bcrypt
+- Security: JWT
 
 ## Contact Me 📞
 
