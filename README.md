@@ -30,7 +30,7 @@
 - ✅ Customize workout routines to fit your lifestyle.
 - Backend: Express, Faker, Sequelize, Jest
 - Frontend: React, Tailwind CSS
-- Security: Passport.js, Bcrypt, Passport(authentication)
+- Security: Passport.js, Bcrypt
 
 ## Recently Completed Projects 📚
 
@@ -40,7 +40,7 @@
 - ✅ Options to view and edit recipes and pantry items.
 - Backend: Ruby on Rails
 - Frontend: npm, webpack, React, Bootstrap
-- Security: JWT, bcrypt
+- Security: JWT
 
 ## Contact Me 📞
 
