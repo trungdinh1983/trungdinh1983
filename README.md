@@ -15,7 +15,7 @@
 
 ### Backend
 
-![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) SQL ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js ![Postgres Icon](https://img.icons8.com/color/48/000000/postgreesql.png) Postgres ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) Express.js ![Ruby on Rails Icon](icon-link-for-RubyonRails) Ruby on Rails ![Faker Icon](icon-link-for-faker) Faker ![Sequelize Icon](icon-link-for-sequelize) Sequelize ![Webpack Icon](icon-link-for-webpack) Webpack ![npm Icon](https://icons8.com/icon/24895/npm) npm ![Jest Icon]([icon-link-for-jest](https://app.gemoo.com/share/image-annotation/557900506175397888?codeId=v692BZJQRl3yo&origin=imageurlgenerator) Jest
+![SQL Icon](https://img.icons8.com/color/48/000000/sql.png) SQL ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js ![Postgres Icon](https://img.icons8.com/color/48/000000/postgreesql.png) Postgres ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) Express.js ![Ruby on Rails Icon](icon-link-for-RubyonRails) Ruby on Rails ![Faker Icon](icon-link-for-faker) Faker ![Sequelize Icon](icon-link-for-sequelize) Sequelize ![Webpack Icon](icon-link-for-webpack) Webpack ![npm Icon](https://icons8.com/icon/24895/npm) npm ![Jest Icon](https://app.gemoo.com/share/image-annotation/557900506175397888?codeId=v692BZJQRl3yo&origin=imageurlgenerator) Jest
 
 ### Security & Authentication
 
