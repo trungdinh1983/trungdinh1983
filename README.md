@@ -19,7 +19,7 @@
 
 ### Security & Authentication
 
-![JWT Icon](icon-link-for-jwt) JWT ![Passport.js Icon](icon-link-for-passportjs) Passport.js ![Bcrypt Icon](icon-link-for-bcrypt) Bcrypt
+JWT | Passport.js | Bcrypt
 
 ## Current Project 🚀
 
