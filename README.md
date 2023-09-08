@@ -11,7 +11,7 @@
 
 ### Frontend
 
-![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS3 ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React.js ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap ![Tailwind Icon](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind
+![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS3 ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React.js ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | Tailwind
 
 ### Backend
 
