@@ -3,7 +3,7 @@
 🌐 [Linkedin](https://linkedin.com/in/trung-dinh-9513543) | [Personal Website](https://trunghdinh.com)  
 🐦 [Twitter](https://twitter.com/DinhDevoloper) | 👥 [Facebook](https://www.facebook.com/trung.dinh.560/)
 
-## 🛠 Web Development Technologies
+## 🛠 Web Technologies
 
 ### Languages
 
